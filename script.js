@@ -5,7 +5,7 @@
    result rendering, and reset.
    ===================================================== */
 
-const API_URL = 'http://127.0.0.1:8000/predict';
+const API_URL = 'https://student-mental-health-prediction-system-0rdp.onrender.com';
 
 /* A broad list for the country datalist. The backend only keeps a
    handful of these as their own category and groups everything
