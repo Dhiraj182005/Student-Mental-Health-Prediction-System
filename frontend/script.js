@@ -5,7 +5,7 @@
    result rendering, and reset.
    ===================================================== */
 
-const API_URL = 'https://mental-buddy-je8z.onrender.com/predict';
+const API_URL = 'https://mental-buddy-je8z.onrender.com';
 
 /* A broad list for the country datalist. The backend only keeps a
    handful of these as their own category and groups everything
